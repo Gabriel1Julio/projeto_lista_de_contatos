@@ -33,9 +33,9 @@ function adicionarLinha(){
         corpoTabela.innerHTML = linhas;
     }
 
-    nome.value = " ";
-    sobrenome.value = " ";
-    numero.value = " ";
+    nome.value = "";
+    sobrenome.value = "";
+    numero.value = "";
 }
 
 
